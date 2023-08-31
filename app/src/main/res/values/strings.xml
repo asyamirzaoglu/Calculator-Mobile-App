@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="sifir">0</string>
+    <string name="bir">1</string>
+    <string name="iki">2</string>
+    <string name="uc">3</string>
+    <string name="dort">4</string>
+    <string name="bes">5</string>
+    <string name="alti">6</string>
+    <string name="yedi">7</string>
+    <string name="sekiz">8</string>
+    <string name="dokuz">9</string>
+    <string name="parantezac">(</string>
+    <string name="parantezkapa">)</string>
+    <string name="kok">√</string>
+    <string name="yuzde">%</string>
+    <string name="log">log</string>
+    <string name="temizle">C</string>
+    <string name="gerial">BACK</string>
+    <string name="esittir">&#0061;</string>
+    <string name="arti">&#0043;</string>
+    <string name="eksi">&#0045;</string>
+    <string name="carp">&#0215;</string>
+    <string name="bol">&#0247;</string>
+    <string name="nokta">.</string>
+
+    <string name="ekran"></string>
+</resources>
