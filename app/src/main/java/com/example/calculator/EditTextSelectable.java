@@ -12,6 +12,6 @@ public class EditTextSelectable extends androidx.appcompat.widget.AppCompatEditT
     @Override
     protected void onSelectionChanged(int selStart, int selEnd) {
         super.onSelectionChanged(selStart, selEnd);
-        // imlecKonumu = selStart; // Bu satırı kaldırabilirsiniz, çünkü MainActivity içinde zaten tanımlanmış.
+        // imlecKonumu = selStart;
     }
 }
